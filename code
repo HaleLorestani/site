@@ -1,7 +1,5 @@
 #javacript code for entekhabVahed😂😂
 
-
-
 window._alert = window.alert;
 window.alert = function (msg) {
   console.log(msg);
