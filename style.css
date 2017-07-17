@@ -1,0 +1,54 @@
+.banner {
+	width:1000px;
+	height:200px;
+	background:grey;
+	margin:0 auto;
+}
+.menu {
+	width:1000px;
+	height:50px;
+	background:red;
+	margin:0 auto;
+	margin-top:5px;
+}
+.slider {
+	width:1000px;
+	height:350px;
+	background:grey;
+	margin:0 auto;
+	margin-top:5px;
+}
+.content {
+	width:1000px;
+	height:400px;
+	margin:0 auto;
+	margin-top:5px;
+}
+.news {
+	width:310px;
+	height:400px;
+	background:grey;
+	float:right;
+}
+.gallery {
+	width:370px;
+	height:400px;
+	background:grey;
+	float:right;
+	margin-right:5px;
+}
+.form {
+	width:310px;
+	height:400px;
+	background:grey;
+	float:right;
+	margin-right:5px;
+}
+.footer {
+	width:1000px;
+	height:100px;
+	background:grey;
+	margin:0 auto;
+	margin-top:5px;
+}
+	
