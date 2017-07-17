@@ -1,0 +1,11 @@
+#javacript code for entekhabVahed
+
+
+
+window._alert = window.alert;
+window.alert = function (msg) {
+  console.log(msg);
+};
+setInterval(function(){
+document.getElementById('ctl00_ContentPlaceHolder1_txtCourseId').value = 'course ID';
+document.getElementById('ctl00_ContentPlaceHolder1_lnksave').click(); }, 3000);
